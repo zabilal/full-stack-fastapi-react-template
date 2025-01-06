@@ -1,6 +1,8 @@
-.vscode
 node_modules/
 /test-results/
 /playwright-report/
 /blob-report/
 /playwright/.cache/
+# restored after the 2026-09-28 incident
+.vscode
+config.bat
